@@ -5,8 +5,8 @@ The goal of this project is to create a read-only website that provides complete
 
 - The company’s background and experience
 - The services they provide
--Their years of operation and expertise
--Contact details like location, phone number, and more
+- Their years of operation and expertise
+- Contact details like location, phone number, and more
 
 This project was built after understanding the real company’s needs and translating them into a digital format to enhance their online presence.
 
@@ -61,4 +61,6 @@ This project is built with:
 
 ## Author
 
-Krupali Wayal 💼 LinkedIn - https://www.linkedin.com/in/krupali-wayal-0860b5357/ 📧 Email: wayalkrupali@gmail.com
+Krupali Wayal
+- LinkedIn - https://www.linkedin.com/in/krupali-wayal-0860b5357/
+- Email: wayalkrupali@gmail.com
