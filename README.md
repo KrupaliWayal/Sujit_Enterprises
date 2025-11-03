@@ -1,26 +1,25 @@
-# Welcome to your Lovable project
+## Sujit Painting and P.O.P Work
 
-## Project info
+Sujit Painting and P.O.P Work is a React.js-based informational website developed as a college project.
+The goal of this project is to create a read-only website that provides complete details about Sujit Enterprises, including:
 
-**URL**: https://lovable.dev/projects/6371ed13-6751-457b-bde6-81946076cdcd
+- The company’s background and experience
+- The services they provide
+-Their years of operation and expertise
+-Contact details like location, phone number, and more
 
-## How can I edit this code?
+This project was built after understanding the real company’s needs and translating them into a digital format to enhance their online presence.
 
-There are several ways of editing your application.
+## Key Features
 
-**Use Lovable**
+- Simple and clean user interface
+- Company introduction and history section
+- Services list (Painting, P.O.P, etc.)
+- Years of experience and achievements
+- Contact details (location, number, etc.)
+- Responsive layout for different devices
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/6371ed13-6751-457b-bde6-81946076cdcd) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
+## Follow these steps:
 
 ```sh
 # Step 1: Clone the repository using the project's Git URL.
@@ -59,15 +58,3 @@ This project is built with:
 - React
 - shadcn-ui
 - Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/6371ed13-6751-457b-bde6-81946076cdcd) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
