@@ -58,3 +58,7 @@ This project is built with:
 - React
 - shadcn-ui
 - Tailwind CSS
+
+## Author
+
+Krupali Wayal 💼 LinkedIn - https://www.linkedin.com/in/krupali-wayal-0860b5357/ 📧 Email: wayalkrupali@gmail.com
